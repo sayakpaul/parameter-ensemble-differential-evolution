@@ -44,8 +44,8 @@ available inside the notebook.
 ## References
 
 * https://en.wikipedia.org/wiki/Differential_evolution
-* Reference: https://machinelearningmastery.com/weighted-average-ensemble-for-deep-learning-neural-networks/
-* Reference: https://machinelearningmastery.com/model-averaging-ensemble-for-deep-learning-neural-networks/
+* https://machinelearningmastery.com/weighted-average-ensemble-for-deep-learning-neural-networks/
+* https://machinelearningmastery.com/model-averaging-ensemble-for-deep-learning-neural-networks/
 
 
 
