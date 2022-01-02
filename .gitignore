@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+*.zip
+*-cifar10/
+*.idea/
