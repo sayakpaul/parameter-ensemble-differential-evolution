@@ -21,7 +21,7 @@ accuracies (on CIFAR-10 test set) of two individually trained two models along w
 
 * Model one: 63.23%
 * Model two: 63.42%
-* Ensembled: 63.5%
+* Ensembled: 63.51%
 
 With the more conventional average prediction ensembling, I was able to get to 64.92%. Nevertheless, the purpose of this 
 project was to just try out an idea. 
