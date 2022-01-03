@@ -16,15 +16,15 @@ formulae.
 
 `ema` is usually chosen by the developer in an empirical manner. This project uses differential evolution to find it.
 
-Using the above recipe, I was able to boost the accuracy of a classifier by a small margin. Below are the top-1
-accuracies (on CIFAR-10 test set) of two individually trained two models along with their ensembled variant:
+Below are the top-1 accuracies (on CIFAR-10 test set) of two individually trained two models along with their
+ensembled variant:
 
 * Model one: 63.23%
 * Model two: 63.42%
-* Ensembled: 63.51%
+* Ensembled: 63.35%
 
-With the more conventional average prediction ensembling, I was able to get to 64.92%. Nevertheless, the purpose of this 
-project was to just try out an idea. 
+With the more conventional average prediction ensembling, I was able to get to 64.92%. This is way better than what I got
+by ensembling the parameters. Nevertheless, the purpose of this project was to just try out an idea. 
 
 ## Reproducing the results
 
